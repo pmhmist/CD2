@@ -1,0 +1,105 @@
+[92mCreating new model: TranAD[0m
+[95mTraining TranAD on SMAP[0m
+  0%|          | 0/5 [00:00<?, ?it/s]                                       0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:00<00:03,  1.04it/s]                                              20%|██        | 1/5 [00:01<00:03,  1.04it/s] 40%|████      | 2/5 [00:01<00:02,  1.05it/s]                                              40%|████      | 2/5 [00:02<00:02,  1.05it/s] 60%|██████    | 3/5 [00:02<00:01,  1.07it/s]                                              60%|██████    | 3/5 [00:03<00:01,  1.07it/s] 80%|████████  | 4/5 [00:03<00:00,  1.07it/s]                                              80%|████████  | 4/5 [00:04<00:00,  1.07it/s]100%|██████████| 5/5 [00:04<00:00,  1.08it/s]100%|██████████| 5/5 [00:04<00:00,  1.07it/s]
+findfont: Font family ['serif'] not found. Falling back to DejaVu Sans.
+findfont: Generic family 'serif' not found because none of the following families were found: Times
+findfont: Font family ['serif'] not found. Falling back to DejaVu Sans.
+findfont: Generic family 'serif' not found because none of the following families were found: Times
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+/data/pmhmist/repos/TranAD/main.py:335: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(result, ignore_index=True)
+Epoch 0,	L1 = 0.09790418201752801
+Epoch 1,	L1 = 0.03949489183633748
+Epoch 2,	L1 = 0.02279884240305301
+Epoch 3,	L1 = 0.01860111150813885
+Epoch 4,	L1 = 0.016609557201564585
+[1mTraining time:     4.6745 s[0m
+[95mTesting TranAD on SMAP[0m
+          f1  precision    recall     TP  ...     FP     FN   ROC/AUC     threshold
+0   0.892596   0.806034  1.000000  748.0  ...  180.0    0.0  0.988398  1.058051e-01
+1   0.894732   0.809524  1.000000  748.0  ...  176.0    0.0  0.988655  9.914231e-01
+2   0.000000   0.000000  0.000000    0.0  ...    0.0  748.0  0.500000  4.274804e+48
+3   0.903923   0.824697  1.000000  748.0  ...  159.0    0.0  0.989751  9.641235e-01
+4   0.927459   0.864740  1.000000  748.0  ...  117.0    0.0  0.992458  1.180355e-04
+5   0.897954   0.814815  1.000000  748.0  ...  170.0    0.0  0.989042  4.998133e-02
+6   0.895803   0.811280  1.000000  748.0  ...  174.0    0.0  0.988784  9.780624e-01
+7   0.000000   0.000000  0.000000    0.0  ...    0.0  748.0  0.500000  9.351612e+49
+8   0.907212   0.830189  1.000000  748.0  ...  153.0    0.0  0.990138  1.727357e-04
+9   0.000000   0.000000  0.000000    0.0  ...    0.0  748.0  0.500000  4.654049e+44
+10  0.772032   0.894366  0.679144  508.0  ...   60.0  240.0  0.835705  2.105517e-04
+11  0.000000   0.000000  0.000000    0.0  ...    0.0  748.0  0.500000  1.000146e+45
+12  0.754824   0.849498  0.679144  508.0  ...   90.0  240.0  0.833771  1.251558e-04
+13  0.000000   0.000000  0.000000    0.0  ...    0.0  748.0  0.500000  1.939756e+52
+14  0.000000   0.000000  0.000000    0.0  ...    0.0  748.0  0.500000  4.397274e+28
+15  0.908865   0.832962  1.000000  748.0  ...  150.0    0.0  0.990331  1.642164e-05
+16  0.512901   0.679912  0.411765  308.0  ...  145.0  440.0  0.696536  2.122523e-04
+17  0.899574   0.817486  1.000000  748.0  ...  167.0    0.0  0.989236  9.509929e-01
+18  0.903377   0.823789  1.000000  748.0  ...  160.0    0.0  0.989687  9.822537e-01
+19  0.930343   0.869767  1.000000  748.0  ...  112.0    0.0  0.992781  4.382025e-03
+20  0.000000   0.000000  0.000000    0.0  ...    0.0  748.0  0.500000  2.494850e+12
+21  0.893663   0.807775  1.000000  748.0  ...  178.0    0.0  0.988526  9.814110e-01
+22  0.902287   0.821978  1.000000  748.0  ...  162.0    0.0  0.989558  9.807058e-01
+23  0.920044   0.851936  1.000000  748.0  ...  130.0    0.0  0.991620  1.601344e-06
+24  0.749811   0.836903  0.679144  508.0  ...   99.0  240.0  0.833191  1.457792e-05
+
+[25 rows x 9 columns]
+{'FN': 0,
+ 'FP': 158,
+ 'Hit@100%': 1.0,
+ 'Hit@150%': 1.0,
+ 'NDCG@100%': 0.9999999999999999,
+ 'NDCG@150%': 0.9999999999999999,
+ 'ROC/AUC': 0.9898156503803017,
+ 'TN': 7599,
+ 'TP': 748,
+ 'f1': 0.9044690371347901,
+ 'precision': 0.8256070549049994,
+ 'recall': 0.9999999866310163,
+ 'threshold': 0.19522594143769212}
