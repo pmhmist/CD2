@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "/data/pmhmist/repos/TranAD/main.py", line 6, in <module>
-    matplotlib.font_manager._rebuild()
-  File "/data/pmhmist/anaconda3/envs/burningfalls/lib/python3.10/site-packages/matplotlib/_api/__init__.py", line 222, in __getattr__
-    raise AttributeError(
-AttributeError: module 'matplotlib' has no attribute 'font_manager'
