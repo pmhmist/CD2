@@ -527,6 +527,6 @@ class TranAD(nn.Module):
 		x2 = self.fcn(self.transformer_decoder2(*self.encode(src, c, tgt)))
 
 		c = (x2 - x1) ** 2
-		x3 = self.fcn(self.transformer_decoder2(*self.encode(x1, c, tgt)))
+		x3 = self.fcn(self.transformer_decoder3(*self.encode(x1, c, tgt)))
 		
 		return x1, x3
