@@ -525,7 +525,7 @@ class TranAD(nn.Module):
 		# Phase 2 - With anomaly scores
 		c = (x1 - src) ** 2
 		x2 = self.fcn(self.transformer_decoder2(*self.encode(src, c, tgt)))
-
+		# Phase 3
 		c = (x2 - x1) ** 2
 		x3 = self.fcn(self.transformer_decoder3(*self.encode(x1, c, tgt)))
 		
