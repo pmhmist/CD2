@@ -31,15 +31,18 @@ Python **3.7** or higher
 ## Dataset
 `preprocess.py` 코드를 활용해 사용
 
-`preprocess.py <dataset>` 
+```python
+preprocess.py <dataset> 
+```
 
 dataset name의 경우 `./data/` 폴더 참고
 
 ## Train
 `main.py` 코드를 활용해 사용
 
-`main.py --model TranAD --dataset <dataset> --retrain`
-
+```python
+main.py --model TranAD --dataset <dataset> --retrain`
+```
 
 ## Reference
 [TranAD](http://vldb.org/pvldb/vol15/p1201-tuli.pdf)
