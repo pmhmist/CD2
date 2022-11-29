@@ -31,7 +31,7 @@ Python **3.7** or higher
 ## Dataset
 `preprocess.py` 코드를 활용해 사용
 
-ex) `preprocess.py <dataset>` 
+`preprocess.py <dataset>` 
 
 dataset name의 경우 `./data/` 폴더 참고
 
