@@ -41,7 +41,7 @@ dataset name의 경우 `./data/` 폴더 참고
 `main.py` 코드를 활용해 사용
 
 ```python
-main.py --model TranAD --dataset <dataset> --retrain`
+main.py --model TranAD --dataset <dataset> --retrain
 ```
 
 ## Reference
