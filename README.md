@@ -4,11 +4,13 @@
 지도교수님 : 박경문
 
 ## Overview
-다변수 시계열 데이터로부터 이상을 감지하는 것은 현대 산업에서 중요한 축을 담당하고 있다고 볼 수 있다. 그러나 이상 신호의 특성상 정상 
+다변수 시계열 데이터로부터 이상을 감지하는 것은 현대 산업에서 중요한 축을 담당하고 있다고 볼 수 있다. 
 
-신호보다 그 비율이 매우 적기 때문에 정확하게 학습하고 감지해 내는 것이 어렵다. 
+그러나 이상 신호의 특성상 정상 신호보다 그 비율이 매우 적기 때문에 정확하게 학습하고 감지해 내는 것이 어렵다. 
 
-이러한 문제점을 해결하기 위한 선행 연구로 TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data
+이러한 문제점을 해결하기 위한 선행 연구로 
+
+TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data
 
 에서는 TranAD 모델을 제안하였다. 본 연구는 기존 TranAD 모델에 디코더를 추가함으로써 더 높은 성능을 이끌어낸다.
 
